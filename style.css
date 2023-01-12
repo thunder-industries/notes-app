@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 700px;
+    width: 900px;
+}
+
+.container{
+    display: flex;
+   
+
+}
+.nav{
+    margin-top: ;
+    height: 700px;
+    width: 180px;
+    background: #2f414f;
+    color: #f1f1ef;
+}
+
+.get-back{
+    padding-top: 40px;
+    padding-left: 20px;
+}
+h2{
+  color: #2f414f;
+  text-align: center;
+}
+
+ul{
+    
+
+}
+ li{
+    padding: 5px;
+    margin: 5px;
+ }
+ button{
+    background-color: #c7dad4;
+    width: 170px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 3px;
+    border: none;
+ }
+
+ .text{
+    width: 900px;
+    background: #3894a3;
+ }
+
+ textarea{
+    margin :20px 20px;
+    padding: 20px 20px;
+    width: 700px;
+    height: 350px;
+ }
